@@ -1,0 +1,166 @@
+body {
+  line-height: 1.7rem;
+  margin: 0;
+}
+
+.titletext {
+  color: white;
+}
+
+#title-section {
+  background-color: black;
+  height: auto;
+}
+
+.title-text {
+  padding: 0 10% 5%;
+}
+
+/*...........................nav bar ...............................*/
+.navbar {
+  padding-bottom: 4%;
+}
+
+.navtext {
+  color: white;
+}
+
+.navbar-brand {
+  padding: 2%;
+  font-size: 2rem;
+}
+
+.nav-item {
+  margin-right: 2rem;
+  color: #fff;
+}
+
+.navafterexpand {
+  padding-bottom: 0px;
+  padding-left: 10px;
+  padding-top: 0px;
+  padding-right: 0px;
+}
+
+/*..........................Drop down................................*/
+.navtext-dropdown {
+  margin-top: 9px;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: black;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.drop-text {
+  color: white;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {
+  background-color: #393e46;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: grey;
+}
+
+/*.................................Drop down...........................*/
+/*..............................titlesection..........................*/
+h1 {
+  padding: 20px;
+}
+
+.titleimage {
+  width: 100%;
+  height: auto;
+  padding: 100px;
+}
+
+/*..............................titlesection..........................*/
+/*.....availability section......*/
+#availability-section {
+  background-color: black;
+  text-align: center;
+}
+
+.card {
+  padding: 20px;
+  text-align: center;
+  margin: 20%;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: grey;
+}
+
+/*.....availability section......*/
+/*..................................IMAGES LINKS .........................*/
+/*..................................IMAGES LINKS .........................*/
+/*.....about section......*/
+#about-section {
+  background-color: #8ac4d0;
+}
+
+.about {
+  width: 200px;
+  height: 200px;
+  padding: 3%;
+}
+
+/*.....about section......*/
+/*........contact section .........*/
+#contact-section {
+  background-color: #393e46;
+}
+
+.contacttext {
+  color: white;
+}
+
+.contact {
+  text-align: center;
+}
+
+.contactus {
+  padding-top: 3%;
+}
+
+.icons {
+  padding: 2%;
+}
+
+.php-button{
+  margin-bottom: 4%;
+  background-color: black;
+  border-radius: 10px;
+}
+
+/*........contact section .........*/
